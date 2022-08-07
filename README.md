@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
-- 💬 Ask me about **HTML5, CSS(SCSS), Javascript, Vue, Vuex, Frontend Development.**
+- 💬 Ask me about **HTML5, CSS(SCSS), Javascript,React, Vue, Vuex, Context Api and Frontend Development entirety.**
 
 - 📫 How to reach me **tiamiyusikiruabidemi@gmail.com**
 
